@@ -1,85 +1,80 @@
 # 코드 위를 걷는, 개발자 김정우 입니다. 👋
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2E8B57&width=435&lines=Java+백엔드+개발자;" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
-
-- 🌱 현재 백엔드 개발을 중심으로 역량을 키우고 있습니다
-- 🎯 효율적이고 확장 가능한 서버 아키텍처 설계에 관심이 많습니다
-- 🤝 팀 프로젝트와 협업을 즐깁니다
-- 📚 지속적인 학습과 기술 동향 파악을 위해 노력합니다
+- 🔭 현재 **헬로핀테크**에서 백엔드 개발자로 근무 중
+- 🌱 **Java/Spring Boot** 생태계와 **MSA** 아키텍처에 관심이 많습니다
+- 📊 **MySQL, Redis** 기반의 데이터베이스 설계 및 최적화 경험
+- 🚀 **Docker, Kubernetes** 기반 인프라 구축 및 운영에 능숙합니다
+- 📝 [블로그](https://velog.io/@kjw1995)에서 기술 공유 활동을 하고 있습니다
 
 ## 🛠️ 기술 스택
-
 ### 백엔드
-
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 </p>
 
 ### 프론트엔드
-
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
 ### 데이터베이스
-
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ### 도구 & 인프라
-
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
 ## 📈 GitHub 통계
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kjw1995&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjw1995&layout=compact&langs_count=7&theme=vue"/>
 </div>
 
 ## 📊 주간 코딩 시간
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kjw1995&theme=vue" alt="kjw1995" />
 </div>
 
-## 🚀 프로젝트 및 연혁
+## 🚀 Work Experience
+### 헬로핀테크 (2023.02 ~ 현재)
+- **정산 프로세스 개선**: MySQL 프로시저를 Java 애플리케이션으로 전환하여 정산 업무 효율성 향상
+- **PG 결제서비스 연동**: 자동화된 결제 시스템 구축으로 수수료 관리 개선
+- **비대면 대출 서비스**: 정부24 시스템 연동을 통한 서류 제출 프로세스 자동화
+- **통합 정산 배치 시스템**: 다중 가맹점 데이터 자동 취합 시스템 구축
+- **레거시 코드 리팩토링**: MyBatis에서 JPA로 전환 및 코드 최신화
 
-### 2023
-- 🏆 백엔드 개발자로서 팀 프로젝트 리드
-- 🎓 스프링 부트와 AWS를 활용한 웹 서비스 구축 과정 수료
-- 🔍 RESTful API 개발 및 마이크로서비스 아키텍처 연구
-
-### 2022
-- 🚀 첫 오픈 소스 프로젝트 기여
-- 💼 NodeJS와 Express를 활용한 백엔드 개발 시작
-- 📱 React를 활용한 프론트엔드 프로젝트 참여
-
-### 2021
-- 🌱 프로그래밍 여정 시작
-- 📚 자바, 자바스크립트 기초 학습
-- 🛠️ 기본적인 웹 개발 기술 습득
+## 🎓 Education & Certification
+- **SQLD (SQL Developer)** - 2024.06
+- **메가스터디IT 아카데미** - JAVA 개발자 양성과정 수료 (2022.05 ~ 2022.10)
 
 ## 📫 연락처
-
 <div align="center">
   
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)
+[![Email Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjddn312@naver.com)](mailto:wjddn312@naver.com)
+[![Blog Badge](https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://velog.io/@kjw1995)](https://velog.io/@kjw1995)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white&link=https://kjw1995.github.io/about_kjw_dev.github.io)](https://kjw1995.github.io/about_kjw_dev.github.io)
   
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kjw1995&color=green" alt="Profile views" />
 </div>
-
