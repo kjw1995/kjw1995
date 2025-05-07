@@ -65,6 +65,6 @@
 <div>
   
 [![Blog Badge](https://img.shields.io/badge/-velog-8A2BE2?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kjw1995)](https://velog.io/@kjw1995)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white&link=https://kjw1995.github.io/about_kjw_dev.github.io)](https://kjw1995.github.io/about_kjw_dev.github.io)
+[![Portfolio Badge](https://img.shields.io/badge/-GitHubPage-black?style=flat-square&logo=github&logoColor=white&link=https://kjw1995.github.io/about_kjw_dev.github.io)](https://kjw1995.github.io/about_kjw_dev.github.io)
   
 </div>
