@@ -6,8 +6,8 @@
 ## 👨‍💻 About Me
 - 🔭 현재 **헬로핀테크**에서 백엔드 개발자로 근무 중
 - 🌱 **Java/Spring Boot** 생태계와 **MSA** 아키텍처에 관심이 많습니다
-- 📊 **MySQL, Redis** 기반의 데이터베이스 설계 및 최적화 경험
-- 🚀 **Docker, Kubernetes** 기반 인프라 구축 및 운영에 능숙합니다
+- 📊 **MySQL, Redis** 데이터베이스 운영 경험
+- 🚀 **Docker, Kubernetes** 기반 인프라 운영 경험
 - 📝 [블로그](https://velog.io/@kjw1995)에서 기술 공유 활동을 하고 있습니다
 
 ## 🛠️ 기술 스택
@@ -49,11 +49,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjw1995&layout=compact&langs_count=7&theme=vue"/>
 </div>
 
-## 📊 주간 코딩 시간
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kjw1995&theme=vue" alt="kjw1995" />
-</div>
-
 ## 🚀 Work Experience
 ### 헬로핀테크 (2023.02 ~ 현재)
 - **정산 프로세스 개선**: MySQL 프로시저를 Java 애플리케이션으로 전환하여 정산 업무 효율성 향상
@@ -67,14 +62,9 @@
 - **메가스터디IT 아카데미** - JAVA 개발자 양성과정 수료 (2022.05 ~ 2022.10)
 
 ## 📫 연락처
-<div align="center">
+<div>
   
-[![Email Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjddn312@naver.com)](mailto:wjddn312@naver.com)
-[![Blog Badge](https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://velog.io/@kjw1995)](https://velog.io/@kjw1995)
+[![Blog Badge](https://img.shields.io/badge/-velog-8A2BE2?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kjw1995)](https://velog.io/@kjw1995)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white&link=https://kjw1995.github.io/about_kjw_dev.github.io)](https://kjw1995.github.io/about_kjw_dev.github.io)
   
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kjw1995&color=green" alt="Profile views" />
 </div>
