@@ -1,8 +1,3 @@
-# 코드 위를 걷는, 개발자 김정우 입니다. 👋
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2E8B57&width=435&lines=Java+백엔드+개발자;" alt="Typing SVG" />
-</div>
-
 ## 👨‍💻 About Me
 - 🔭 **헬로핀테크(2023.02 ~ 2025.08)**
 - 🔭 **(주)티엔씨테크날로지(2025.11 ~)**
