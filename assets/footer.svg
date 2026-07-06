@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" fill="none" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="0" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="1" stop-color="#0B0D12"/>
+    </linearGradient>
+    <linearGradient id="fwaveCore" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FDBA74" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#F97316" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#F97316" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="120" fill="url(#fbg)"/>
+
+  <path d="M-50,58 Q25,46 100,58 T250,58 T400,58 T550,58 T700,58 T850,58 T1000,58 T1150,58 T1300,58" stroke="#F97316" stroke-width="9" opacity="0.10" stroke-linecap="round"/>
+  <path d="M-50,58 Q25,46 100,58 T250,58 T400,58 T550,58 T700,58 T850,58 T1000,58 T1150,58 T1300,58" stroke="#F97316" stroke-width="4.5" opacity="0.22" stroke-linecap="round"/>
+  <path d="M-50,58 Q25,46 100,58 T250,58 T400,58 T550,58 T700,58 T850,58 T1000,58 T1150,58 T1300,58" stroke="url(#fwaveCore)" stroke-width="2.2" stroke-linecap="round"/>
+
+  <circle cx="25" cy="46" r="8" fill="#F97316" opacity="0.18"/>
+  <circle cx="25" cy="46" r="3.6" fill="#FDBA74"/>
+  <circle cx="325" cy="46" r="2.4" fill="#F97316" opacity="0.7"/>
+  <circle cx="625" cy="46" r="2.4" fill="#F97316" opacity="0.45"/>
+  <circle cx="925" cy="46" r="2.4" fill="#F97316" opacity="0.28"/>
+</svg>
